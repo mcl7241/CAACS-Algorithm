@@ -2,7 +2,7 @@
 
 Source code for CAACS: A Carbon Aware Ant Colony System; Published in Nature Scientific Reports
 
-Code and data is available for the following paper:
+Code and data is available for the following papers:
 
 Lin, M., Schaposnik, L.P. A carbon aware ant colony system for the sustainable generalized traveling salesman problem. Sci Rep 15, 21928 (2025). https://doi.org/10.1038/s41598-025-08276-9
 
